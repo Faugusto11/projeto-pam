@@ -2,7 +2,7 @@
 
 <h1>Atividade de PAM1 - CRUD com SQLite</h1>
 
-<h2>Para executar o projeto rode os seguintes comandos na pasta PROJETOPAMRANDOM</h2>
+<h2>Para executar o projeto, extraia o zip e rode os seguintes comandos na pasta PROJETOPAMRANDOM</h2>
 
 ```
 npm install
